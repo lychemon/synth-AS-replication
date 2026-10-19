@@ -1,0 +1,7 @@
+# Tested with Python 3.12.10.
+# Recent releases of these packages (numpy >= 1.24, scipy >= 1.10, cvxpy >= 1.4 with clarabel) also work.
+numpy==2.5.1
+scipy==1.18.0
+cvxpy==1.9.3
+clarabel==0.11.1
+matplotlib==3.11.1

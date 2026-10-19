@@ -1,0 +1,15 @@
+# macOS metadata
+.DS_Store
+._*
+__MACOSX/
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv*/
+venv/
+
+# Local execution logs
+*.log
+*.smcl
